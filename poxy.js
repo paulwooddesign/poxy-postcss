@@ -4,6 +4,7 @@ var assign = require('object-assign');
 
 // Poxy At Rules and Declarations
 var libs = [
+  require('./lib/poxy-cw'),
   require('./lib/poxy-x'),
   require('./lib/poxy-y')
 ];
