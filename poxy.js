@@ -6,7 +6,9 @@ var assign = require('object-assign');
 var libs = [
   require('./lib/poxy-cw'),
   require('./lib/poxy-x'),
-  require('./lib/poxy-y')
+  require('./lib/poxy-x-rem'),
+  require('./lib/poxy-y'),
+  require('./lib/poxy-y-rem')
 ];
 
 var defaultSettings = {
