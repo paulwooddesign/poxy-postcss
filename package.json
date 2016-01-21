@@ -1,6 +1,6 @@
 {
   "name": "poxy-postcss",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "POXY",
   "main": "poxy.js",
   "repository": {
